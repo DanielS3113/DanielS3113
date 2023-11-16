@@ -1,5 +1,7 @@
 ### Hi there 👋
+### My name is Daniel 
 ### 🔭 I’m currently working on nothing 
+### 📫 How to reach me: desimbanav@puce.edu.ec
 
 
 <!--
